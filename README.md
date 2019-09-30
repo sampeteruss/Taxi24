@@ -1,7 +1,7 @@
 # Taxi24
-Interview Question
-To set Up the API The Environment used is NODE JS
-
+Interview Question: 
+Environment used is NODE.JS
+Setup
 You can download Node.js runtime from  https://nodejs.org/en/download/
 After installing this runtime
 
